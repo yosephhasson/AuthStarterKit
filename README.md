@@ -1,4 +1,4 @@
-# Firebase Auth Boilerplate
+# Firebase Auth Starter Kit
 
 A reusable authentication starter built with Firebase Authentication.  
 This project provides a clean foundation for implementing user authentication in modern applications, including email/password and third-party providers.
